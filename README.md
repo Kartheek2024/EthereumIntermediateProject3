@@ -45,9 +45,7 @@ Any user can burn their tokens by calling the `burn` function and specifying the
 
 Users can transfer tokens to other addresses using the `transfer` function. Specify the recipient address and the number of tokens to send.
 
-### Approving Token Transfers
 
-To allow other addresses (spenders) to transfer tokens on your behalf, use the `approve` function to set an allowance. This is required for the `transferFrom` function to work.
 
 ## Disclaimer
 
